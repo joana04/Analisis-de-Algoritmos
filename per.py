@@ -1,0 +1,23 @@
+nk=input().split()
+n=int(nk[0])
+k=int(nk[1])
+salida=[]
+if(n>=k):
+	print(-1)
+elif(k==n-1):
+	pos=0
+	while(pos<n):
+		salida.append(pos+1)
+		pos+=1
+	print(salida)
+else:
+	salida.append(k+2)
+	pos=2
+	while(pos<k+2):
+		salida.append(pos)
+		pos+=1
+	while(pos<n):
+		salida.append(pos+1)
+		pos+=1
+	salida.append(1)
+	print(salida)
