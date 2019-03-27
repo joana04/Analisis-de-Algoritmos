@@ -1,0 +1,102 @@
+Algoritmo: seleccion
+	n=100
+
+real (Tiempo total)  0.0000200272 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+
+
+real (Tiempo total)  2.0027160645e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: seleccion
+	n=1000
+
+real (Tiempo total)  0.0010929108 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+
+
+real (Tiempo total)  1.0929107666e-03 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: seleccion
+	n=5000
+
+real (Tiempo total)  0.0254549980 s
+user (Tiempo de procesamiento en CPU) 0.0240000000 s
+
+
+real (Tiempo total)  2.5454998016e-02 s
+user (Tiempo de procesamiento en CPU) 2.4000000000e-02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: seleccion
+	n=10000
+
+real (Tiempo total)  0.1048238277 s
+user (Tiempo de procesamiento en CPU) 0.1040000000 s
+
+
+real (Tiempo total)  1.0482382774e-01 s
+user (Tiempo de procesamiento en CPU) 1.0400000000e-01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: seleccion
+	n=50000
+
+real (Tiempo total)  2.4996409416 s
+user (Tiempo de procesamiento en CPU) 2.5000000000 s
+
+
+real (Tiempo total)  2.4996409416e+00 s
+user (Tiempo de procesamiento en CPU) 2.5000000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: seleccion
+	n=100000
+
+real (Tiempo total)  9.9711899757 s
+user (Tiempo de procesamiento en CPU) 9.9680000000 s
+
+
+real (Tiempo total)  9.9711899757e+00 s
+user (Tiempo de procesamiento en CPU) 9.9680000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: seleccion
+	n=200000
+
+real (Tiempo total)  39.9340591431 s
+user (Tiempo de procesamiento en CPU) 39.9320000000 s
+
+
+real (Tiempo total)  3.9934059143e+01 s
+user (Tiempo de procesamiento en CPU) 3.9932000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: seleccion
+	n=400000
+
+real (Tiempo total)  161.1812789440 s
+user (Tiempo de procesamiento en CPU) 161.1800000000 s
+
+
+real (Tiempo total)  1.6118127894e+02 s
+user (Tiempo de procesamiento en CPU) 1.6118000000e+02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: seleccion
+	n=600000
+
+real (Tiempo total)  361.6120710373 s
+user (Tiempo de procesamiento en CPU) 361.6000000000 s
+
+
+real (Tiempo total)  3.6161207104e+02 s
+user (Tiempo de procesamiento en CPU) 3.6160000000e+02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+0.0000150204 s, 0.0011107922 s, 0.0256800652 s, 0.1059839725 s, 2.5343480110 s, 10.1232230663 s, 41.7541069984 s, 173.0510690212 s, 399.0541291237 s, 789.1837499142 s, 1248.8588190079 s, 5525.9507470131 s,  0.0000000000 s, 0.0000000000 s, 0.0240000000 s, 0.1080000000 s, 2.5360000000 s, 10.1160000000 s, 40.4520000000 s, 161.7280000000 s, 363.9920000000 s, 647.1040000000 s, 1014.4520000000 s,
+
+------------------------

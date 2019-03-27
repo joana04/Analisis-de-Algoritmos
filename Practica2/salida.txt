@@ -1,0 +1,17 @@
+Busqueda Binaria
+	valor=0
+	n=1000000
+NO se encontro el valor= 0
+
+real (Tiempo total)  0.0000009537 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+sys (Tiempo en acciónes de E/S)  0.0000000000 s
+CPU/Wall   0.0000000000 % 
+
+
+real (Tiempo total)  9.5367431641e-07 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+sys (Tiempo en acciónes de E/S)  0.0000000000e+00 s
+CPU/Wall   0.0000000000 % 
+
+////////////////////////////////////////////////////////////////////////////////////////////

@@ -1,0 +1,224 @@
+Algoritmo: shell
+	n=100
+
+real (Tiempo total)  0.0000169277 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+
+
+real (Tiempo total)  1.6927719116e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=1000
+
+real (Tiempo total)  0.0002570152 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+
+
+real (Tiempo total)  2.5701522827e-04 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=5000
+
+real (Tiempo total)  0.0021121502 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+
+
+real (Tiempo total)  2.1121501923e-03 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=10000
+
+real (Tiempo total)  0.0052471161 s
+user (Tiempo de procesamiento en CPU) 0.0040000000 s
+
+
+real (Tiempo total)  5.2471160889e-03 s
+user (Tiempo de procesamiento en CPU) 4.0000000000e-03 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=50000
+
+real (Tiempo total)  0.0345089436 s
+user (Tiempo de procesamiento en CPU) 0.0360000000 s
+
+
+real (Tiempo total)  3.4508943558e-02 s
+user (Tiempo de procesamiento en CPU) 3.6000000000e-02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=100000
+
+real (Tiempo total)  0.0926690102 s
+user (Tiempo de procesamiento en CPU) 0.0920000000 s
+
+
+real (Tiempo total)  9.2669010162e-02 s
+user (Tiempo de procesamiento en CPU) 9.2000000000e-02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=200000
+
+real (Tiempo total)  0.2027969360 s
+user (Tiempo de procesamiento en CPU) 0.2040000000 s
+
+
+real (Tiempo total)  2.0279693604e-01 s
+user (Tiempo de procesamiento en CPU) 2.0400000000e-01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=400000
+
+real (Tiempo total)  0.4816989899 s
+user (Tiempo de procesamiento en CPU) 0.4800000000 s
+
+
+real (Tiempo total)  4.8169898987e-01 s
+user (Tiempo de procesamiento en CPU) 4.8000000000e-01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=600000
+
+real (Tiempo total)  0.7063000202 s
+user (Tiempo de procesamiento en CPU) 0.7040000000 s
+
+
+real (Tiempo total)  7.0630002022e-01 s
+user (Tiempo de procesamiento en CPU) 7.0400000000e-01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=800000
+
+real (Tiempo total)  1.1903359890 s
+user (Tiempo de procesamiento en CPU) 1.1880000000 s
+
+
+real (Tiempo total)  1.1903359890e+00 s
+user (Tiempo de procesamiento en CPU) 1.1880000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=1000000
+
+real (Tiempo total)  1.3764550686 s
+user (Tiempo de procesamiento en CPU) 1.3760000000 s
+
+
+real (Tiempo total)  1.3764550686e+00 s
+user (Tiempo de procesamiento en CPU) 1.3760000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=2000000
+
+real (Tiempo total)  3.5510520935 s
+user (Tiempo de procesamiento en CPU) 3.5520000000 s
+
+
+real (Tiempo total)  3.5510520935e+00 s
+user (Tiempo de procesamiento en CPU) 3.5520000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=3000000
+
+real (Tiempo total)  5.5490489006 s
+user (Tiempo de procesamiento en CPU) 5.5480000000 s
+
+
+real (Tiempo total)  5.5490489006e+00 s
+user (Tiempo de procesamiento en CPU) 5.5480000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=4000000
+
+real (Tiempo total)  8.5788168907 s
+user (Tiempo de procesamiento en CPU) 8.5640000000 s
+
+
+real (Tiempo total)  8.5788168907e+00 s
+user (Tiempo de procesamiento en CPU) 8.5640000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=5000000
+
+real (Tiempo total)  11.2345440388 s
+user (Tiempo de procesamiento en CPU) 11.2280000000 s
+
+
+real (Tiempo total)  1.1234544039e+01 s
+user (Tiempo de procesamiento en CPU) 1.1228000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=6000000
+
+real (Tiempo total)  12.9957890511 s
+user (Tiempo de procesamiento en CPU) 12.9960000000 s
+
+
+real (Tiempo total)  1.2995789051e+01 s
+user (Tiempo de procesamiento en CPU) 1.2996000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=7000000
+
+real (Tiempo total)  15.6050629616 s
+user (Tiempo de procesamiento en CPU) 15.6040000000 s
+
+
+real (Tiempo total)  1.5605062962e+01 s
+user (Tiempo de procesamiento en CPU) 1.5604000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=8000000
+
+real (Tiempo total)  21.2392618656 s
+user (Tiempo de procesamiento en CPU) 21.2360000000 s
+
+
+real (Tiempo total)  2.1239261866e+01 s
+user (Tiempo de procesamiento en CPU) 2.1236000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=9000000
+
+real (Tiempo total)  21.5415470600 s
+user (Tiempo de procesamiento en CPU) 21.5440000000 s
+
+
+real (Tiempo total)  2.1541547060e+01 s
+user (Tiempo de procesamiento en CPU) 2.1544000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: shell
+	n=10000000
+
+real (Tiempo total)  26.3509080410 s
+user (Tiempo de procesamiento en CPU) 26.3520000000 s
+
+
+real (Tiempo total)  2.6350908041e+01 s
+user (Tiempo de procesamiento en CPU) 2.6352000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+0.0000109673 s, 0.0002110004 s, 0.0018382072 s, 0.0044429302 s, 0.0379528999 s, 0.0904829502 s, 0.2030930519 s, 0.4826309681 s, 0.7072050571 s, 1.1706109047 s, 1.3684689999 s, 3.5530099869 s, 5.3654451370 s, 8.3337261677 s, 11.3115248680 s, 13.0658609867 s, 15.7039420605 s, 21.2958309650 s, 21.7169930935 s, 26.5395698547 s, 
+----------------------------------------------------------------------------------------
+
+ 0.0000000000 s, 0.0000000000 s, 0.0000000000 s, 0.0040000000 s, 0.0360000000 s, 0.0880000000 s, 0.2040000000 s, 0.4800000000 s, 0.7080000000 s, 1.1680000000 s, 1.3680000000 s, 3.5520000000 s, 5.3600000000 s, 8.3320000000 s, 11.3200000000 s, 13.0640000000 s, 15.6800000000 s, 21.2880000000 s, 21.6880000000 s, 26.5240000000 s, 26.9320000000 s,

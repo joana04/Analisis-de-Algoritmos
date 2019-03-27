@@ -1,0 +1,127 @@
+Algoritmo: insercion
+	n=100
+
+real (Tiempo total)  0.0000798702 s
+user (Tiempo de procesamiento en CPU) 0.0000000000 s
+
+
+real (Tiempo total)  7.9870223999e-05 s
+user (Tiempo de procesamiento en CPU) 0.0000000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=1000
+
+real (Tiempo total)  0.0032548904 s
+user (Tiempo de procesamiento en CPU) 0.0040000000 s
+
+
+real (Tiempo total)  3.2548904419e-03 s
+user (Tiempo de procesamiento en CPU) 4.0000000000e-03 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=5000
+
+real (Tiempo total)  0.0373959541 s
+user (Tiempo de procesamiento en CPU) 0.0360000000 s
+
+
+real (Tiempo total)  3.7395954132e-02 s
+user (Tiempo de procesamiento en CPU) 3.6000000000e-02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=10000
+
+real (Tiempo total)  0.0635240078 s
+user (Tiempo de procesamiento en CPU) 0.0640000000 s
+
+
+real (Tiempo total)  6.3524007797e-02 s
+user (Tiempo de procesamiento en CPU) 6.4000000000e-02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=50000
+
+real (Tiempo total)  1.5717821121 s
+user (Tiempo de procesamiento en CPU) 1.5720000000 s
+
+
+real (Tiempo total)  1.5717821121e+00 s
+user (Tiempo de procesamiento en CPU) 1.5720000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=100000
+
+real (Tiempo total)  6.2558441162 s
+user (Tiempo de procesamiento en CPU) 6.2520000000 s
+
+
+real (Tiempo total)  6.2558441162e+00 s
+user (Tiempo de procesamiento en CPU) 6.2520000000e+00 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=200000
+
+real (Tiempo total)  24.9759571552 s
+user (Tiempo de procesamiento en CPU) 24.9600000000 s
+
+
+real (Tiempo total)  2.4975957155e+01 s
+user (Tiempo de procesamiento en CPU) 2.4960000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=400000
+
+real (Tiempo total)  99.6714520454 s
+user (Tiempo de procesamiento en CPU) 99.6800000000 s
+
+
+real (Tiempo total)  9.9671452045e+01 s
+user (Tiempo de procesamiento en CPU) 9.9680000000e+01 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=600000
+
+real (Tiempo total)  230.6030309200 s
+user (Tiempo de procesamiento en CPU) 230.6120000000 s
+
+
+real (Tiempo total)  2.3060303092e+02 s
+user (Tiempo de procesamiento en CPU) 2.3061200000e+02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=800000
+
+real (Tiempo total)  400.7249429226 s
+user (Tiempo de procesamiento en CPU) 400.7560000000 s
+
+
+real (Tiempo total)  4.0072494292e+02 s
+user (Tiempo de procesamiento en CPU) 4.0075600000e+02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+Algoritmo: insercion
+	n=1000000
+
+real (Tiempo total)  628.9020519257 s
+user (Tiempo de procesamiento en CPU) 628.8600000000 s
+
+
+real (Tiempo total)  6.2890205193e+02 s
+user (Tiempo de procesamiento en CPU) 6.2886000000e+02 s
+
+////////////////////////////////////////////////////////////////////////////////////////////
+0.0000078678 s, 0.0013618469 s, 0.0420029163 s, 0.0656030178 s, 1.5724499226 s, 6.2982239723 s, 25.1536469460 s, 100.9663670063 s, 224.8685889244 s, 402.7065720558 s, 627.4590318203 s, 2524.9992480278 s, 5738.3820061684 s, 10189.6004350185 s, 15935.2315609455 s, 
+--------------------------------------------------------------------------------------------
+
+ 0.0000000000 s, 0.0000000000 s, 0.0160000000 s, 0.0640000000 s, 1.5720000000 s, 6.2880000000 s, 25.0200000000 s, 100.7760000000 s, 225.4080000000 s, 400.6760000000 s, 625.0920000000 s,
+---------------------------
+
